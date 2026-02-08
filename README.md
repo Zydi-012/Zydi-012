@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**Zydi-012/Zydi-012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # 💫 About Me:
-Computer Science Student | Web Developer<br> I’m currently learning<br>💬
+Hi, I'm Geridyz<br><br>Computer Science Student | Web Developer<br> I’m currently learning<br>💬
 
 
 ## 🌐 Socials:
